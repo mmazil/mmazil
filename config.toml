@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://mmazil.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Mohammed MAZIL'
 theme = "cactus"
 
 # Main menu which appears below site header.
